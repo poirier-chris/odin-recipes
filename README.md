@@ -1,1 +1,2 @@
 # odin-recipes
+This project will demonstrate my beginner HTML skills. I will create a website using HTML boilerplate, lists, links and images. I will also use basic elements such as paragraphs, headings and bold font. 
